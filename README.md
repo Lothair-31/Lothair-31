@@ -3,7 +3,7 @@
 </p>
 
 # Hello, folks! 👋
-**'Software/Game Developer'**
+**Software/Game Developer**
 
 I’m a self-taught developer who enjoys building games and desktop applications using C#. I have a strong interest in UI/UX and enjoy creating clean, user-friendly interfaces that are intuitive and enjoyable to use. Most of my projects involve Unity, Windows Forms, and .NET, with a focus on continually improving with every build. When I’m not coding, I’m probably gaming or brainstorming my next project.
 
