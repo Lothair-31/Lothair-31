@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi I'm Kervie Alviola 👋
+**'Software/Game Developer'**
 
-<!--
-**Lothair-31/Lothair-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a self-taught developer who enjoys building games and desktop applications using C#. I have a strong interest in UI/UX and enjoy creating clean, user-friendly interfaces that are intuitive and enjoyable to use. Most of my projects involve Unity, Windows Forms, and .NET, with a focus on continually improving with every build. When I’m not coding, I’m probably gaming or brainstorming my next project.
 
-Here are some ideas to get you started:
+### 🧰 Languages and Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" />
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original-wordmark.svg"/>
+ <img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img align="left" alt="C#" width ="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+
+           
+          
+
+          
+          
+          
+
